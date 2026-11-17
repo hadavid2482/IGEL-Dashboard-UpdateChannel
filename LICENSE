@@ -2,9 +2,17 @@ IGEL UMS Dashboard
 © 2026 David Wiesener. Alle Rechte vorbehalten.
 
 Diese Software ist urheberrechtlich geschützt und nicht quelloffen.
-Nutzung nur mit gültigem Schlüssel des Rechteinhabers bzw. im Rahmen des
-14-tägigen Testzeitraums. Weitergabe, Veränderung, Dekompilierung oder
-Veröffentlichung – auch auszugsweise – nur mit schriftlicher Zustimmung des
+
+IGEL UMS Dashboard (IgelDashboard.exe): Nutzung nur mit gültigem
+Consultant-Schlüssel des Rechteinhabers. Die Weitergabe des IGEL-Dashboard an
+Kunden ist nicht erlaubt.
+
+Dashboard-Export (Dashboard-Export.exe): Darf an Kunden weitergegeben und von
+ihnen genutzt werden, um die Daten ihrer eigenen IGEL UMS zu sammeln und als
+Datenpaket an ihren Consultant zu übergeben.
+
+Veränderung, Dekompilierung oder Veröffentlichung – auch auszugsweise – sowie
+jede darüber hinausgehende Weitergabe nur mit schriftlicher Zustimmung des
 Rechteinhabers.
 
 IGEL, IGEL OS und UMS sind Marken der IGEL Technology GmbH. Dieses Programm
